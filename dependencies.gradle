@@ -1,0 +1,9 @@
+ext {
+    //kotlin_version = "1.2.0"
+
+    commonDependencies = [
+            
+            jUnit             : 'junit:junit:4.12'
+           
+    ]
+}
